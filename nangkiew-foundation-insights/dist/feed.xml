@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Nangkiew Foundation Insights</title>
+  <link>https://nangkiewfoundationblog.netlify.app/</link>
+  <description>Research, commentary and practical insights on education, human capital, development, technology, public policy and opportunity in Meghalaya.</description>
+  
+  <item>
+    <title>Welcome to Nangkiew Foundation Insights</title>
+    <link>https://nangkiewfoundationblog.netlify.app/articles/welcome/</link>
+    <guid>https://nangkiewfoundationblog.netlify.app/articles/welcome/</guid>
+    <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+    <description>A new space for thoughtful, evidence-led writing on education, opportunity, development and public policy in Meghalaya.</description>
+  </item>
+</channel>
+</rss>
